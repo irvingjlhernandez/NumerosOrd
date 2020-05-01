@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Order them !!!</string>
+    <string name="bienvenida">Order your numbers from least to greatest</string>
+    <string name="instrucciones">To order the numbers follow the instructions:</string>
+    <string name="ins1">1.- Enter up to 4 digits.</string>
+    <string name="Ins2">2.- Press next.</string>
+    <string name="ins3">3.- Press SORT !!!</string>
+    <string name="advertencia">You already entered the 4 numbers</string>
+    <string name="advlon">The number can only have 4 digits or less.</string>
+    <string name="advempty">Please enter a number.</string>
+    <string name="valcorrecto">The value was entered correctly.</string>
+    <string name="valores">You have entered:</string>
+    <string name="val">values.</string>
+    <string name="borrar">ERASE</string>
+    <string name="ordenar">SORT !!!</string>
+    <string name="eliminar">DELETE</string>
+    <string name="noelemento">You have not entered items.</string>
+    <string name="elimino">All elements have been removed.</string>
+    <string name="borro">The item was removed:</string>
+    <string name="error">An error has occurred, check the item you entered.</string>
+    <string name="arriba">Upward</string>
+    <string name="abajo">Downward</string>
+    <string name="titulodos">To change the order of the elements press any arrow</string>
+    <string name="indiup">Press for ascending order.</string>
+    <string name="indidown">Press for descending order</string>
+</resources>

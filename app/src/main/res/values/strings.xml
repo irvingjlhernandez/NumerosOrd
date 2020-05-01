@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Ordenalos!!!</string>
+    <string name="bienvenida">Ordena tus numeros de menor a mayor</string>
+    <string name="instrucciones">Para ordenar los numeros sigue las instrucciones:</string>
+    <string name="ins1">1.- Ingresa hasta 4 digitos.</string>
+    <string name="Ins2">2.- Presiona siguiente.</string>
+    <string name="ins3">3.- Presiona ORDENAR!!!</string>
+    <string name="advertencia">Ya introdujo los 4 números</string>
+    <string name="advlon">El numero solo puede tener 4 digitos o menos.</string>
+    <string name="advempty">Por favor ingrese un numero.</string>
+    <string name="valcorrecto">Se ingreso correctamente el valor.</string>
+    <string name="valores">Usted ha ingresado:</string>
+    <string name="val">valores.</string>
+    <string name="borrar">BORRAR</string>
+    <string name="ordenar">OORDENAR!!!</string>
+    <string name="eliminar">ELIMINAR</string>
+    <string name="noelemento">No ha ingresado elementos.</string>
+    <string name="elimino">Se eliminaron todos los elementos.</string>
+    <string name="borro">Se quito el elemento:</string>
+    <string name="error">Ha ocurrido un error, revise el elemento que ingreso.</string>
+    <string name="arriba">Ascendente</string>
+    <string name="abajo">Descendente</string>
+    <string name="titulodos">Para cambiar el orden de los elementos presione cualquier flecha</string>
+    <string name="indiup">Presione para orden ascendente.</string>
+    <string name="indidown">Presione para orden descendente</string>
+</resources>
